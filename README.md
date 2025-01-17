@@ -2,8 +2,9 @@
 This repository is for tutorial code related to ECG studies in our lab.  
 </br>
 Chan Lee, Seokhyeon Ha  
-
-### Installation
+</br>
+</br>
+# Installation
 ```bash
 pip install numpy==1.26.4
 pip install torch==1.13.1
@@ -15,13 +16,15 @@ pip install tqdm
 pip install scikit-learn==1.5.2
 pip install matplotlib
 ```
-
-### Training
+</br>
+</br>
+# Training
 ```python
 !python main.py
 ```
-
-### Results
+</br>
+</br>
+# Results
 Result of testset
 AUC: 0.9054, F1-score: 0.6782
 <p align="center">
@@ -31,11 +34,13 @@ AUC: 0.9054, F1-score: 0.6782
   <img src="https://github.com/user-attachments/assets/e5d34a0b-75ee-432c-b171-fd29efb11066" alt="Image 1" width="500"/>
   <img src="https://github.com/user-attachments/assets/985fa270-00b3-44c6-b562-8d194b2f16c0" alt="Image 2" width="500"/>
 </p>
-
-### Contact
+</br>
+</br>
+# Contact
 Should you have any questions or concerns, please feel free to contact me at the email below. ⬇️</br>
 📫 mldlcl2022@gmail.com 📫
-
-### Acknowledgements
+</br>
+</br>
+# Acknowledgements
 Thank you for our [Lab](https://www.k-medai.com/home).  
 If you find this code useful, please consider citing our work.
