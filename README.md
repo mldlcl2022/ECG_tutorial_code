@@ -4,6 +4,7 @@ This repository is for tutorial code related to ECG studies in our lab.
 Chan Lee, Seokhyeon Ha  
 </br>
 </br>
+
 # Installation
 ```bash
 pip install numpy==1.26.4
@@ -18,6 +19,7 @@ pip install matplotlib
 ```
 </br>
 </br>
+
 # Training
 ```python
 !python main.py
