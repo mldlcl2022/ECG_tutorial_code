@@ -23,6 +23,8 @@ pip install matplotlib
 ### Results
 Result of testset
 AUC: 0.9054, F1-score: 0.6782
+
+##### Loss curve
 <img src="https://github.com/user-attachments/assets/7d57cd3f-8620-49a8-b60f-bc8291ab7035">
 
 ### Contact
