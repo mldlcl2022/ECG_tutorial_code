@@ -18,7 +18,6 @@ pip install scikit-learn==1.5.2
 pip install matplotlib
 ```
 </br>
-</br>
 
 # Training
 To ECG classification using simple CNN model, run the code below. ⬇️</br>
@@ -26,7 +25,7 @@ To ECG classification using simple CNN model, run the code below. ⬇️</br>
 !python main.py
 ```
 </br>
-</br>
+
 # Results
 Result of testset
 AUC: 0.9054, F1-score: 0.6782
@@ -38,12 +37,12 @@ AUC: 0.9054, F1-score: 0.6782
   <img src="https://github.com/user-attachments/assets/985fa270-00b3-44c6-b562-8d194b2f16c0" alt="Image 2" width="500"/>
 </p>
 </br>
-</br>
+
 # Contact
 Should you have any questions or concerns, please feel free to contact me at the email below. ⬇️</br>
 📫 mldlcl2022@gmail.com 📫
 </br>
-</br>
+
 # Acknowledgements
 Thank you for our [Lab](https://www.k-medai.com/home).  
 If you find this code useful, please consider citing our work.
