@@ -1,5 +1,5 @@
 # ECG tutorial code
-This repository is for tutorial code related to ECG studies in our lab.  
+This is for tutorial code related to ECG studies in our lab.  
 </br>
 Chan Lee, Seokhyeon Ha  
 </br>
@@ -21,6 +21,7 @@ pip install matplotlib
 </br>
 
 # Training
+To ECG classification using simple CNN model, run the code below. ⬇️</br>
 ```python
 !python main.py
 ```
