@@ -25,9 +25,9 @@ pip install matplotlib
 Result of testset
 AUC: 0.9054, F1-score: 0.6782
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7d57cd3f-8620-49a8-b60f-bc8291ab7035" alt="Image 1" width="350"/>
-  <img src="https://github.com/user-attachments/assets/7d57cd3f-8620-49a8-b60f-bc8291ab7035" alt="Image 2" width="350"/>
-  <img src="https://github.com/user-attachments/assets/7d57cd3f-8620-49a8-b60f-bc8291ab7035" alt="Image 3" width="350"/>
+  <img src="https://github.com/user-attachments/assets/7d57cd3f-8620-49a8-b60f-bc8291ab7035" alt="Image 1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7d57cd3f-8620-49a8-b60f-bc8291ab7035" alt="Image 2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7d57cd3f-8620-49a8-b60f-bc8291ab7035" alt="Image 3" width="300"/>
 </p>
 
 ### Contact
