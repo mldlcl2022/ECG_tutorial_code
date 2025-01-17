@@ -1,5 +1,5 @@
 # ECG tutorial code
-This is for tutorial code related to ECG studies in our lab.  
+This repository is for tutorial code related to ECG studies in our lab.  
 </br>
 Chan Lee, Seokhyeon Ha  
 </br>
