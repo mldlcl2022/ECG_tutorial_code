@@ -16,11 +16,9 @@ pip install matplotlib
 ```
 
 ### Contact
----
 Should you have any questions or concerns, please feel free to contact me at the email below. ⬇️</br>
 <div align="center"> 📫 mldlcl2022@gmail.com 📫 </div>
 
 ### Acknowledgements
----
 Thank you for our [Lab](https://www.k-medai.com/home).  
 If you find this code useful, please consider citing our work.
