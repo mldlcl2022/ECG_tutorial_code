@@ -3,7 +3,7 @@ This repository is for tutorial code related to ECG studies in our lab.
 Chan Lee, Seokhyeon Ha  
 
 # Installation
-```python
+```bash
 pip install numpy==1.26.4
 pip install torch==1.13.1
 
@@ -20,5 +20,5 @@ Should you have any questions or concerns, please feel free to contact me at the
 <div align="center"> 📫 mldlcl2022@gmail.com 📫 </div>
 
 # Acknowledgements
-Thank you for our [Lab](https://www.k-medai.com/home).
+Thank you for our [Lab](https://www.k-medai.com/home).  
 If you find this code useful, please consider citing our work.
