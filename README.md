@@ -1,7 +1,25 @@
-# ECG_tutorial_code  
-  
-ECG
+# ECG tutorial code
+Chan Lee, Seokhyeon Ha  
 
-1. ptb-xl 다운로드 받는 방법  
+This repository is for tutorial code related to ECG studies in our lab.  
 
-2. split 정보 다운로드 받는 방법
+### Installation
+```python
+pip install numpy==1.26.4
+pip install torch==1.13.1
+
+pip install wfdb
+pip install pandas==2.2.3
+
+pip install tqdm
+pip install scikit-learn==1.5.2
+pip install matplotlib
+```
+
+### Contact
+Should you have any questions or concerns, please feel free to contact me at the email below. ⬇️</br>
+<div align="center"> 📫 mldlcl2022@gmail.com 📫 </div>
+
+### Acknowledgements
+Thank you for our [Lab](https://www.k-medai.com/home).
+If you find this code useful, please consider citing our work.
