@@ -1,3 +1,4 @@
+import os
 import time
 from tqdm import tqdm
 import torch
@@ -9,6 +10,7 @@ def train(model, trainloader, validloader, device, criterion, optimizer, epochs)
     valid_losses = [];valid_aucs = [];valid_f1s = []
     
     best_f1 = float('-inf')
+    os.makedirs('./results', exist_ok= True)
     best_state_dict = './results/best_state_dict.pth'
     
     model.to(device)
