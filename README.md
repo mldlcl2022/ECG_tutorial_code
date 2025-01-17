@@ -1,5 +1,4 @@
 # ECG tutorial code
-This repository is for tutorial code related to ECG studies in our lab.  
 Chan Lee, Seokhyeon Ha  
 
 ### Installation
@@ -13,6 +12,11 @@ pip install pandas==2.2.3
 pip install tqdm
 pip install scikit-learn==1.5.2
 pip install matplotlib
+```
+
+### Training
+```python
+!python main.py
 ```
 
 ### Contact
