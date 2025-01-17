@@ -1,4 +1,5 @@
 # ECG tutorial code
+This repository is for tutorial code related to ECG studies in our lab.  
 Chan Lee, Seokhyeon Ha  
 
 ### Installation
@@ -20,16 +21,9 @@ pip install matplotlib
 ```
 
 ### Results
-Epoch 29: 100%|██████████████████████████████| 67/67 [00:11<00:00,  6.08batch/s]
-Time: 0m 18s Loss: 0.2698
-
-Epoch 30: 100%|██████████████████████████████| 67/67 [00:10<00:00,  6.19batch/s]
-Time: 0m 18s Loss: 0.2692
-Train | AUC: 0.9371, F1: 0.7137
-Valid | AUC: 0.9108, F1: 0.6427
-
 Result of testset
 AUC: 0.9054, F1-score: 0.6782
+
 
 ### Contact
 Should you have any questions or concerns, please feel free to contact me at the email below. ⬇️</br>
